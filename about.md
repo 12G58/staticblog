@@ -1,1 +1,3 @@
-Will this show up? 
+layout: page
+title: "PAGE-TITLE"
+permalink: /about
