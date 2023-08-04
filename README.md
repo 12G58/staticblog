@@ -1,0 +1,2 @@
+# staticblog
+Github pages website 
