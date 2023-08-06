@@ -4,4 +4,5 @@ title: "PAGE-TITLE"
 permalink: /about
 ---
 
-The purpose of this website is to 
+I write about those things which interest me here. 
+The purpose being showcasing how the world appears from a particular perspective.  
